@@ -1,3 +1,2 @@
 six
-#social-auth-core >= 1.2.0
--e git://github.com/Independa/social-core.git@master#egg=social-core
+social-auth-core >= 1.2.0
