@@ -1,2 +1,2 @@
 six
-social-auth-core == 4.0.2
+social-auth-core == 3.3.3
